@@ -1,1 +1,1 @@
-# food_del_app
+# food_del_project
